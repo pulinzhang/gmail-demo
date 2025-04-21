@@ -1,0 +1,18 @@
+spring:
+    application:
+        name: gmail-demo
+
+google:
+    oauth:
+        client:
+            client-id:
+            project-id:
+            auth-uri:
+            token-uri:
+            auth-provider-x509-cert-url:
+            client-secret:
+            redirect-uris:
+                                                                                                                                                                                                                                                                                                                     
+
+    
+
